@@ -7,3 +7,4 @@ green
 blue
 indigo
 violet
+octarine
