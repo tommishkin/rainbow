@@ -4,6 +4,7 @@ red
 orange
 yellow
 green
+greenish-purple
 blue
 indigo
 violet
